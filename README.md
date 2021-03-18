@@ -15,12 +15,17 @@
 ```fish
 $ omf install poopoo
 ```
-
+install it manually.
+- clone the repository first.
+- run the commands below
+```bash
+mkdir ~/.local/share/omf/themes/poopoo
+cp fish_prompt.fish ~/.local/share/omf/themes/poopoo
+```
 
 ## Features
 
-* Lorem ipsum dolor sit amet.
-* Consectetur adipisicing elit.
+* Print the 💩💩 in the prompt. 
 
 
 ## Screenshot
